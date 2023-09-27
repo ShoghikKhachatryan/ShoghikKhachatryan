@@ -5,7 +5,7 @@
 
 Know about my experience
  - [Linkedin](https://am.linkedin.com/in/shoghik-khachatryan-4a04b776)  
- - [Portfolio](https://shoghikkhachatryan.github.io/AboutMe/) 
+ - [Portfolio](https://shoghikkhachatryan.github.io/portfolio/) 
  
 Connect with me:⤵️  
-[Gmail](khachatryan.shoghik@gmail.com) 
+[Gmail](mailto:khachatryan.shoghik@gmail.com) 
