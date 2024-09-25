@@ -6,24 +6,17 @@
 - ℹ️ &nbsp; Interested in my experience, visit my [LinkedIn page](https://am.linkedin.com/in/shoghik-khachatryan-4a04b776)
 
 ## Here are some of my portfolio projects
-
 ℹ️ &nbsp; psst, they are clickable 🤪
 
-<a href="https://github.com/ShoghikKhachatryan/book-haven" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; border-radius: 15px; text-decoration: none;">
-    Book Haven
-</a>
-&nbsp; Maven powered, Register, view book catalogue, email when stock is empty and much much more (final project at DCI)
+[![Book Haven](https://img.shields.io/badge/Book_Haven-green?style=for-the-badge)](https://github.com/ShoghikKhachatryan/book-haven)
+&nbsp; Maven powered, register, view book catalogue, email when stock is empty, and much more (final project at DCI)
 
 <br>
-<br>
-<a href="https://github.com/ShoghikKhachatryan/e-commerce" style="display: inline-block; padding: 10px 20px; background-color: #3cb2be; color: white; text-align: center; border-radius: 15px; text-decoration: none;">
-    E-commerce
-</a>
-&nbsp; Gradle engine, Spring Boot, rest API, DB migrations and overall nice and clean code (just for fun)
+
+[![E-commerce](https://img.shields.io/badge/E--commerce-blue?style=for-the-badge)](https://github.com/ShoghikKhachatryan/e-commerce)
+&nbsp; Gradle engine, Spring Boot, REST API, DB migrations, and overall nice and clean code (just for fun)
 
 <br>
-<br>
-<a href="https://github.com/ShoghikKhachatryan/e-commerce" style="display: inline-block; padding: 10px 20px; background-color: #be3c9e; color: white; text-align: center; border-radius: 15px; text-decoration: none;">
-    Online Bank
-</a>
-&nbsp; Yap, you guest it, another java powered project: I ❤️ J
+
+[![Online Bank](https://img.shields.io/badge/Online_Bank-purple?style=for-the-badge)](https://github.com/ShoghikKhachatryan/online-banking)
+&nbsp; Yep, you guessed it, another Java powered project: I ❤️ Java
